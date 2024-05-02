@@ -1,0 +1,635 @@
+#EXTm3u
+
+###### A -  INFORMAÇÕES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="INFORMAÇÕES",07/03/2024
+https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
+
+
+###### A -  PIX / DOAÇÃO PARA MANTER ATIVA
+
+#EXTINF:-1 tvg-logo="https://s2-techtudo.glbimg.com/XJP5s9s0EJEpdM-K0yWRmstm06s=/0x0:945x530/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/T/d/9KN7bBSd6UKk4hcitczA/marca-pix-1-.jpg" group-title="PIX / DOAÇÃO PARA MANTER ATIVA",gmpixtv@gmail.com 
+https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
+
+###### 3 Canais | 24h
+
+#EXTINF:-1 tvg-id="" tvg-name="24H PEPPA PIG" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/5ed69d51a920f1c158a70e1ee2a48e1e.jpg" group-title="24h",24H PEPPA PIG
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/622ebf0335971ec3d453fbf81a712d4b.png" group-title="24h",24H CHAVES
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H ALADDIN" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/e35dd746efdc9e96d9077dad4f061f32.png" group-title="24h",24H ALADDIN
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/3f90b36ff0ed6d99652dde8dec15a74d.jpg" group-title="24h",24H O INCRÍVEL MUNDO DE GUMBALL
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/5a06c15ef98c82555c81915246efa205.png" group-title="24h",24H BABY LOONEY TUNES
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DA LUNA" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/5f4873e6b33f1e42393c99a136c75778.png" group-title="24h",24H O SHOW DA LUNA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H OS FLINTSTONES" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/ee2fbd695aea11a27247693bab075cd6.jpg" group-title="24h",24H OS FLINTSTONES
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H MASTERCHEF" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9476f7bf9a00733b6b6a32170dbc1592.png" group-title="24h",24H MASTERCHEF
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9ef2401dbaf23717e7ceccceb827b6fb.png" group-title="24h",24H EU A PATROA E AS CRIANÇAS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA PAU" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/850c171df6548be282bfa288732276d0.png" group-title="24h",24H PICA PAU
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H AS MENINAS SUPERPODEROSAS" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/414fb83e71d4eb3a2f5f4ea98455d89b.png" group-title="24h",24H AS MENINAS SUPERPODEROSAS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE E JOSH" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/9388786f8ca2177aa5872c0e0b98487c.png" group-title="24h",24H DRAKE E JOSH
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CORRIDA MALUCA" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/ef71c498c126b1d2e8cab2c8bad4500c.jpg" group-title="24h",24H CORRIDA MALUCA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H FAMILÍA DINOSSAUROS" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/888ff3f2a75201ac79ca090a0fec82b6.png" group-title="24h",24H FAMILÍA DINOSSAUROS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H POCOYO" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/5a950011224f1a3614cf132ba59badc3.png" group-title="24h",24H POCOYO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H A PEQUENA SEREIA" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/07ba1029040a66236c7e10f854064b7b.png" group-title="24h",24H A PEQUENA SEREIA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/7584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H DORA, A AVENTUREIRA" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/6224332f5e88d90fd76d839a1d42987d.png" group-title="24h",24H DORA, A AVENTUREIRA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/8130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H O MÁSKARA" tvg-logo="https://i.imgur.com/zGIJ9gz.png" group-title="24h",24H O MÁSKARA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/8155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/c1df0ac26078b4b41fe484aca89d03d3.jpg" group-title="24h",24H PATRULHA CANINA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/8538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER WINGS" tvg-logo="https://i.imgur.com/97Sdlej.jpg" group-title="24h",24H SUPER WINGS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/8539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BLAZE AND THE MONSTER MACHINES" tvg-logo="https://i.imgur.com/EDUKaRg.png" group-title="24h",24H BLAZE AND THE MONSTER MACHINES
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/8540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H MASHA E O URSO" tvg-logo="https://i.imgur.com/EeQ3CVF.png" group-title="24h",24H MASHA E O URSO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/8541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA" tvg-logo="https://i.imgur.com/mgAyQ9k.png" group-title="24h",24H GALINHA PINTADINHA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/9142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H O MUNDO DE BITA" tvg-logo="https://i.imgur.com/baf88pE.jpg" group-title="24h",24H O MUNDO DE BITA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/9143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H TODO MUNDO ODEIA O CHIRS" tvg-logo="https://i.imgur.com/pZNsk9A.jpg" group-title="24h",24H TODO MUNDO ODEIA O CHIRS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/9659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H ICARLY" tvg-logo="https://i.imgur.com/h1nTOPM.jpg" group-title="24h",24H ICARLY
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX" tvg-logo="https://i.imgur.com/E3fFsyQ.png" group-title="24h",24H GATO FELIX
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER AMIGOS" tvg-logo="https://i.imgur.com/kckOFdM.jpg" group-title="24h",24H SUPER AMIGOS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H HEY ARNOLD" tvg-logo="https://i.imgur.com/YT7zkJa.png" group-title="24h",24H HEY ARNOLD
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H TURMA DO PATETA" tvg-logo="https://i.imgur.com/DG2PPi4.jpg" group-title="24h",24H TURMA DO PATETA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS" tvg-logo="https://i.imgur.com/KTpFeaV.png" group-title="24h",24H 3 PALAVRINHAS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H A PANTERA COR DE ROSA" tvg-logo="https://i.imgur.com/9KffBFu.png" group-title="24h",24H A PANTERA COR DE ROSA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H PERNALONGA" tvg-logo="http://sv1.ccdns.xyz:8080/images/2aa2877c54ef0d12deda8e2981675ba9.png" group-title="24h",24H PERNALONGA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H A VACA E O FRANGO" tvg-logo="https://i.imgur.com/4pZYDja.png" group-title="24h",24H A VACA E O FRANGO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BIBO PAI E BOBI FILHO" tvg-logo="https://i.imgur.com/NOheKXO.png" group-title="24h",24H BIBO PAI E BOBI FILHO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H COELHO RICOCHETE" tvg-logo="https://i.imgur.com/qqkRkMZ.png" group-title="24h",24H COELHO RICOCHETE
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H DENNIS, O PIMENTINHA" tvg-logo="http://sv1.ccdns.xyz:8080/images/f821c90e4f0ecc5ac464584bcf7de79f.png" group-title="24h",24H DENNIS, O PIMENTINHA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H HORA DO ROCK" tvg-logo="https://i.imgur.com/iIBZnWW.jpg" group-title="24h",24H HORA DO ROCK
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGAO" tvg-logo="https://i.imgur.com/PuGqhJR.png" group-title="24h",24H CAVERNA DO DRAGAO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BIG MOUTH" tvg-logo="https://i.imgur.com/B4tvRDF.png" group-title="24h",24H BIG MOUTH
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JETSONS" tvg-logo="https://i.imgur.com/0aAqs1p.png" group-title="24h",24H OS JETSONS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/11375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA" tvg-logo="http://sv1.ccdns.xyz:8080/images/929feaca9dab989aac42dec03bcfbeca.jpg" group-title="24h",24H BOB ESPONJA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/13269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H VAI QUE COLA" tvg-logo="https://i.imgur.com/dndaJs8.jpg" group-title="24h",24H VAI QUE COLA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/19381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H LUCCAS NETO" tvg-logo="https://i.imgur.com/aPOvogr.png" group-title="24h",24H LUCCAS NETO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/19382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAPOLIN" tvg-logo="https://i.imgur.com/llgH0hB.png" group-title="24h",24H CHAPOLIN
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/19383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM, O CÃO COVARDE" tvg-logo="https://i.imgur.com/Ia21HVW.png" group-title="24h",24H CORAGEM, O CÃO COVARDE
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/20254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGON BALL GT" tvg-logo="https://i.imgur.com/sC6xi6v.png" group-title="24h",24H DRAGON BALL GT
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/22487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H FORMIGA ATOMICA" tvg-logo="https://i.imgur.com/wBXlEPX.jpg" group-title="24h",24H FORMIGA ATOMICA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/22547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCKTALES" tvg-logo="https://i.imgur.com/Q5CL9kK.jpg" group-title="24h",24H DUCKTALES
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/22548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H LIGEIRINHO" tvg-logo="https://i.imgur.com/J3XxJZj.png" group-title="24h",24H LIGEIRINHO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/25393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO" tvg-logo="https://i.imgur.com/lGopkCi.png" group-title="24h",24H CAVALO DE FOGO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/25394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H SCOOBY DOO!" tvg-logo="http://sv1.ccdns.xyz:8080/images/58caf560a23c74c0acafa87db2a8daa5.jpg" group-title="24h",24H SCOOBY DOO!
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/25395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H GASPARZINHO" tvg-logo="https://i.imgur.com/LKix3I0.png" group-title="24h",24H GASPARZINHO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/25396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H ESQUILO SEM GRILO" tvg-logo="https://i.imgur.com/rHl2V9D.png" group-title="24h",24H ESQUILO SEM GRILO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/25398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H PATATI PATATÁ" tvg-logo="" group-title="24h",24H PATATI PATATÁ
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H STAND-UP" tvg-logo="http://sv1.cinecriciuma.com.br:8080/images/ed4ca1630844d4fda43326d8b33fab1f.png" group-title="24h",24H STAND-UP
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BUZZ LIGHTYER" tvg-logo="http://sv1.ccdns.xyz:8080/images/cc1b2b1e3c0e0a28433abc077ca3d73e.png" group-title="24h",24H BUZZ LIGHTYER
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 (2005)" tvg-logo="http://sv1.ccdns.xyz:8080/images/2d0c728ae9ef9db7b1fca33f11bd6d5b.png" group-title="24h",24H BEN 10 (2005)
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BICUDO, O LOBISOMEM" tvg-logo="http://sv1.ccdns.xyz:8080/images/cbba3c428660368ed6e1d1b7384de846.png" group-title="24h",24H BICUDO, O LOBISOMEM
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JOVENS TITANS EM AÇÃO" tvg-logo="http://sv1.ccdns.xyz:8080/images/c06073ba6ed4ffdfe9765dae84833b1b.png" group-title="24h",24H OS JOVENS TITANS EM AÇÃO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H PJ MARKS" tvg-logo="http://sv1.ccdns.xyz:8080/images/413b9d8efd5e55e8646437afffa120fe.png" group-title="24h",24H PJ MARKS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://sv1.ccdns.xyz:8080/images/052d3d223c4c7795733a81f4a05147e9.png" group-title="24h",24H AS AVENTURAS DE JACKIE CHAN
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE" tvg-logo="http://sv1.ccdns.xyz:8080/images/751a5a8ece9645b53c15cf6af2184dc1.png" group-title="24h",24H BEN 10 OMNIVERSE
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H TOMA LÁ DÁ CÁ" tvg-logo="http://sv1.ccdns.xyz:8080/images/fdd30929536e082e2c3039840bda366a.png" group-title="24h",24H TOMA LÁ DÁ CÁ
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BRANCA DE NEVE" tvg-logo="http://sv1.ccdns.xyz:8080/images/7cb79b076f0afd85409f4cb7882364bd.png" group-title="24h",24H BRANCA DE NEVE
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H DE VOLTA PARA O FUTURO" tvg-logo="http://sv1.ccdns.xyz:8080/images/055e3960a65ca7bf585ae8684e438e07.png" group-title="24h",24H DE VOLTA PARA O FUTURO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H GEORGE, O CURIOSO" tvg-logo="http://sv1.ccdns.xyz:8080/images/dabadba9343b043b5d926e5d3ac31a32.png" group-title="24h",24H GEORGE, O CURIOSO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H MARINHEIRO POPEYE" tvg-logo="http://sv1.ccdns.xyz:8080/images/0bbd9243f1d791f1246143c611a325c7.png" group-title="24h",24H MARINHEIRO POPEYE
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H FORMULA 1 DIRIGIR PRA VIVER" tvg-logo="http://sv1.ccdns.xyz:8080/images/16873194a420fcf402d4695581fa2dc5.png" group-title="24h",24H FORMULA 1 DIRIGIR PRA VIVER
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H GARFIELD" tvg-logo="http://sv1.ccdns.xyz:8080/images/9596436a0e12061f77d4bf4e5c4bcd47.png" group-title="24h",24H GARFIELD
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H KICK BUTTOWSKI" tvg-logo="http://sv1.ccdns.xyz:8080/images/b700aa41e63d7914cc3e8d29fdc6d1cd.png" group-title="24h",24H KICK BUTTOWSKI
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CASTELO RÁ-TIM-BUM" tvg-logo="http://sv1.ccdns.xyz:8080/images/1e216d1622feb618018521847f0c220b.png" group-title="24h",24H CASTELO RÁ-TIM-BUM
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALEIROS DO ZODÍACO" tvg-logo="http://sv1.ccdns.xyz:8080/images/d1d15716dfcb74c214a2c2726c0753ed.png" group-title="24h",24H CAVALEIROS DO ZODÍACO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H EU SOU O MÁXIMO" tvg-logo="http://sv1.ccdns.xyz:8080/images/b3985e779aae947691a0c4f362a2ea84.png" group-title="24h",24H EU SOU O MÁXIMO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H TARTARUGAS NINJA" tvg-logo="http://sv1.ccdns.xyz:8080/images/f103204a73ddcd669fffffa57b09a9e2.png" group-title="24h",24H TARTARUGAS NINJA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H LULUZINHA" tvg-logo="http://sv1.ccdns.xyz:8080/images/ec523d5c0bc4acc871e4e8e2ee5be4de.png" group-title="24h",24H LULUZINHA
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H OS VALENTES COWBOYS" tvg-logo="http://sv1.ccdns.xyz:8080/images/812bc7061cf1ce44c48ec2bd0066521b.png" group-title="24h",24H OS VALENTES COWBOYS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H PADRINHOS MÁGICOS" tvg-logo="http://sv1.ccdns.xyz:8080/images/85b5f957b5afe5f1ebb57970ac832f61.png" group-title="24h",24H PADRINHOS MÁGICOS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/26793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H A GUARDA DO LEÃO" tvg-logo="http://sv1.ccdns.xyz:8080/images/102cdaa3328291bee704899ed22e2b5b.png" group-title="24h",24H A GUARDA DO LEÃO
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/36345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H CASA DO MICKEY" tvg-logo="http://sv1.ccdns.xyz:8080/images/a92d043d2ce7c9baf855281b2c4f2dbb.png" group-title="24h",24H CASA DO MICKEY
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/36344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H AS MUMIAS VIVAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/0186b30e8d8967d9ba70540b179cbb4f.png" group-title="24h",24H AS MUMIAS VIVAS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/36343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SMURFS" tvg-logo="http://sv1.ccdns.xyz:8080/images/975d08dbc90575084413d29d57e74b0f.png" group-title="24h",24H OS SMURFS
+http://sv1.ccdns.xyz:8080/live/alfadelta/alfadeltagf37/36342.m3u8
+#EXTINF:0,🎈.pluto-tv-Bob Esponja (24h)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:0,🎈.Pluto TV - Turma da Mônica 24horas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L3MdMpK.png" group-title="Canais: 24Horas",JETSON TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Canais: 24Horas",BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/C5qWG1y.png" group-title="Canais: 24Horas",OGGY E AS BARATAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/LiSnCh7.png" group-title="Canais: 24Horas",OS PADRINHOS MAGICOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/4Y8zjpm.png" group-title="Canais: 24Horas",ROCKET POWER
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+EXTINF:-1 tvg-logo="https://imgur.com/IsA6nhP.png" group-title="Canais: 24Horas", A VIDA MODERNA DE ROCKO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8GvhfOr.png" group-title="Canais: 24Horas", RUGRATS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9Na8UpY.png" group-title="Canais: 24Horas", AS AVENTURAS DE JACKIE CHAN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ANjsVWA.png" group-title="Canais: 24Horas", MORANGUINHO
+https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/muj2sTq.png" group-title="Canais: 24Horas", AS TARTARUGAS NINJAS
+https://i.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="Canais: 24Horas", TOON GOOGLE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="Canais: 24Horas", CAVERNA DO DRAGAO
+https://ythlsgo.onrender.com/video/k--MD867Tm0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Canais: 24Horas", PEPPA PIG
+https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/g7RCejA.png" group-title="Canais: 24Horas", COCORICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VRxtpeS.png" group-title="Canais: 24Horas", BABYFIRST
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bRDW0yb.png" group-title="Canais: 24Horas", JUNIOR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/J5Mtfaw.png" group-title="Canais: 24Horas", AS PISTAS DE BLUE 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tkxMhCr.png" group-title="Canais: 24Horas", O REINO INFANTIL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wR2hB9b.png" group-title="Canais: 24Horas", BABY SHARK TV
+https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fHutaGN.png" group-title="Canais: 24Horas", KIDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais: 24Horas", PATRULHA CANINA
+https://i.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8
+
+#EXTINF:-1,[24H] 3 Palavrinhas
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83751
+#EXTINF:-1,[24H] A Casa do Mickey Mouse
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/140984
+#EXTINF:-1,[24H] A Guarda do Leão
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83684
+#EXTINF:-1,[24H] A Mansão Foster
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/544
+#EXTINF:-1,[24H] A Roda do Ônibus
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62967
+#EXTINF:-1,[24H] Aladdin
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83674
+#EXTINF:-1,[24H] Angry Birds
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83702
+#EXTINF:-1,[24H] Apenas um Show
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62978
+#EXTINF:-1,[24H] As Aventuras do Batman 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143688
+#EXTINF:-1,[24H] As Aventuras do Batman 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143798
+#EXTINF:-1,[24H] As Meninas Superpoderosas
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83675
+#EXTINF:-1,[24H] Baby Looney Tunes
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83240
+#EXTINF:-1,[24H] BEN 10 - 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/140811
+#EXTINF:-1,[24H] BEN 10 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62972
+#EXTINF:-1,[24H] Bita e os Animais
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83753
+#EXTINF:-1,[24H] Bob Esponja 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/140950
+#EXTINF:-1,[24H] Bob o Trem 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62983
+#EXTINF:-1,[24H] Bob o Trem 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147829
+#EXTINF:-1,[24H] Bob Zoom 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147830
+#EXTINF:-1,[24H] Bob Zoom 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62965
+#EXTINF:-1,[24H] Booba 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147831
+#EXTINF:-1,[24H] Booba 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62952
+#EXTINF:-1,[24H] Caillou
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62956
+#EXTINF:-1,[24H] Carmen Sandiego
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/165430
+#EXTINF:-1,[24H] Cascão A Turma da Monica
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62964
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83719
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152888
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 3
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152889
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 4
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152890
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 5
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152891
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 6
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152892
+#EXTINF:-1,[24H] Caverna do Dragão 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62995
+#EXTINF:-1,[24H] Chaves Desenho
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83683
+#EXTINF:-1,[24H] Clarêncio, O Otimista
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/156574
+#EXTINF:-1,[24H] Coragem o Cão Covarde 1 
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83679
+#EXTINF:-1,[24H] Coragem o Cão Covarde 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62987
+#EXTINF:-1,[24H] Corrida Maluca 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83759
+#EXTINF:-1,[24H] Corrida Maluca 1968
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/148014
+#EXTINF:-1,[24H] Corrida Maluca 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/148277
+#EXTINF:-1,[24H] Corrida Maluca 3
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62974
+#EXTINF:-1,[24H] Digimon 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83687
+#EXTINF:-1,[24H] Digimon 15º Aniversário
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153992
+#EXTINF:-1,[24H] Digimon 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153989
+#EXTINF:-1,[24H] Digimon Adventure Zero Two
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153991
+#EXTINF:-1,[24H] Digimon Frontier
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153993
+#EXTINF:-1,[24H] Digimon Savers
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153994
+#EXTINF:-1,[24H] Digimon Tamers
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153995
+#EXTINF:-1,[24H] Dora Aventureira 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/140789
+#EXTINF:-1,[24H] Dora Aventureira 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/89548
+#EXTINF:-1,[24H] Doug 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83689
+#EXTINF:-1,[24H] Doug 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153996
+#EXTINF:-1,[24H] Dragon Ball 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83690
+#EXTINF:-1,[24H] Dragon Ball 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/153999
+#EXTINF:-1,[24H] Dragon Ball Heroes
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152661
+#EXTINF:-1,[24H] Dragon Ball Super 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83692
+#EXTINF:-1,[24H] Dragon Ball Super 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152662
+#EXTINF:-1,[24H] Dragon Ball Super 3
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152663
+#EXTINF:-1,[24H] Dragon Ball Z 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83691
+#EXTINF:-1,[24H] Dragon Ball Z 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152670
+#EXTINF:-1,[24H] Dragon Ball [Filmes 1]
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152664
+#EXTINF:-1,[24H] Du, Dudu e Edu
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/156745
+#EXTINF:-1,[24H] Em Busca do Vale Encantado
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62985
+#EXTINF:-1,[24H] Formiga Atômica
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83694
+#EXTINF:-1,[24H] Freakazoid
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/162899
+#EXTINF:-1,[24H] Futurama
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/162900
+#EXTINF:-1,[24H] Galinha Pintadinha
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83695
+#EXTINF:-1,[24H] Galo e a Pata
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62968
+#EXTINF:-1,[24H] Garfield 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143799
+#EXTINF:-1,[24H] Garfield 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143805
+#EXTINF:-1,[24H] Garfield 03
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/70685
+#EXTINF:-1,[24H] He-Man 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83697
+#EXTINF:-1,[24H] He-Man 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/154001
+#EXTINF:-1,[24H] He-Man 2002
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/154002
+#EXTINF:-1,[24H] He-Man 3
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/156043
+#EXTINF:-1,[24H] Homem Aranha Animado 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83700
+#EXTINF:-1,[24H] Homem Aranha Animado 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/154003
+#EXTINF:-1,[24H] Homem de Ferro 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83701
+#EXTINF:-1,[24H] Homem de Ferro 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/142121
+#EXTINF:-1,[24H] Homem de Ferro 1994
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/142122
+#EXTINF:-1,[24H] Irmão do Jorel 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62994
+#EXTINF:-1,[24H] Irmão do Jorel 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/155389
+#EXTINF:-1,[24H] Jacarelvis
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62984
+#EXTINF:-1,[24H] Jiraya
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/122179
+#EXTINF:-1,[24H] Johnny Bravo
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/156744
+#EXTINF:-1,[24H] Johnny Test
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62996
+#EXTINF:-1,[24H] Kenan e Kel
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83707
+#EXTINF:-1,[24H] Larva Chiclete
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/63003
+#EXTINF:-1,[24H] Leo O-Caminhão
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62981
+#EXTINF:-1,[24H] Liga da Justica
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83754
+#EXTINF:-1,[24H] Looney Tunes
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62988
+#EXTINF:-1,[24H] Luluzinha 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83708
+#EXTINF:-1,[24H] Luluzinha 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62997
+#EXTINF:-1,[24H] Masha e o Urso
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62993
+#EXTINF:-1,[24H] Medabots
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83709
+#EXTINF:-1,[24H] MegaMan
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83710
+#EXTINF:-1,[24H] Moranguinho 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147946
+#EXTINF:-1,[24H] Moranguinho 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/63005
+#EXTINF:-1,[24H] Naruto
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83713
+#EXTINF:-1,[24H] O Clube das Winx
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143685
+#EXTINF:-1,[24H] Oggy e as Baratas
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62955
+#EXTINF:-1,[24H] One Piece East Blue
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/162898
+#EXTINF:-1,[24H] Os Flinstones
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83720
+#EXTINF:-1,[24H] Os Jetson
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/162897
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143800
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143801
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 03
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143802
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 04
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143803
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 05
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143804
+#EXTINF:-1,[24H] Os Patos
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62992
+
+
+
+#EXTINF:-1,2253 Nickelodeon Bob Esponja Calça Quadrada (BR)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,2257 Nick Clássico (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,2258 Nick Junior Club (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1,[24H] Pantera Cor de Rosa 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147949
+#EXTINF:-1,[24H] Pantera Cor de Rosa 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62990
+#EXTINF:-1,[24H] Patati e Patata 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62979
+#EXTINF:-1,[24H] Patati e Patata 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147947
+#EXTINF:-1,[24H] Patati e Patata 03
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/264
+#EXTINF:-1,[24H] Pato Donald
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62991
+#EXTINF:-1,[24H] Patrulha Canina 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/169538
+#EXTINF:-1,[24H] Patrulha Canina 3
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/169536
+#EXTINF:-1,[24H] Patrulha Canina 4
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/169535
+#EXTINF:-1,[24H] Patrulha Canina 5
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83733
+#EXTINF:-1,[24H] Patrulha Canina 6
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83723
+#EXTINF:-1,[24H] Peppa Pig
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83724
+#EXTINF:-1,[24H] Pequena Sereia
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147948
+#EXTINF:-1,[24H] Pernalonga 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/146926
+#EXTINF:-1,[24H] Pernalonga 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/146927
+#EXTINF:-1,[24H] Pica Pau 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83727
+#EXTINF:-1,[24H] Pica Pau 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/148200
+#EXTINF:-1,[24H] Pica Pau 03
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62973
+#EXTINF:-1,[24H] Pink-e-Cerebro
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83728
+#EXTINF:-1,[24H] Pintinho Amarelinho 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147945
+#EXTINF:-1,[24H] Pintinho Amarelinho 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62963
+#EXTINF:-1,[24H] PJ Masks
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62958
+#EXTINF:-1,[24H] Pocoyo
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83722
+#EXTINF:-1,[24H] Pokemon 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83729
+#EXTINF:-1,[24H] Pokemon 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147950
+#EXTINF:-1,[24H] Popeye
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/141023
+#EXTINF:-1,[24H] Popeye 75th
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/154892
+#EXTINF:-1,[24H] Princesa e o Dragão
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62982
+#EXTINF:-1,[24H] Rambo
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83731
+#EXTINF:-1,[24H] Reino Gelado
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/63001
+#EXTINF:-1,[24H] Rimas de Berçário
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62966
+#EXTINF:-1,[24H] Sakura Card
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/280
+#EXTINF:-1,[24H] Samurai Warriors
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/269
+#EXTINF:-1,[24H] Samurai-X 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147951
+#EXTINF:-1,[24H] Samurai-X 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/147991
+#EXTINF:-1,[24H] Sapo Não Lava o Pé 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143686
+#EXTINF:-1,[24H] Sapo Não Lava o Pé 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62976
+#EXTINF:-1,[24H] Scooby-Doo
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83732
+#EXTINF:-1,[24H] Scooby-Doo - 13 Fantasmas 1985
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/156747
+#EXTINF:-1,[24H] Shaman King
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/270
+#EXTINF:-1,[24H] She-ra
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/63002
+#EXTINF:-1,[24H] Shinzo
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/281
+#EXTINF:-1,[24H] Show da Luna
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62957
+#EXTINF:-1,[24H] Shurato
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/271
+#EXTINF:-1,[24H] Simon
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62980
+#EXTINF:-1,[24H] Sitio do Pica-Pau Amarelo
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/63000
+#EXTINF:-1,[24H] Speed-Racer
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/265
+#EXTINF:-1,[24H] Steven Universe
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83736
+#EXTINF:-1,[24H] Street Fighter 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/162896
+#EXTINF:-1,[24H] Super Choque 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83757
+#EXTINF:-1,[24H] Super Choque 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/156748
+#EXTINF:-1,[24H] Super Mario Bros 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/162901
+#EXTINF:-1,[24H] Super Mario Bros 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/273
+#EXTINF:-1,[24H] Super Wings 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83718
+#EXTINF:-1,[24H] Super Wings 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83704
+#EXTINF:-1,[24H] Superman - Homem do Amanhã
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/143687
+#EXTINF:-1,[24H] Superman Animado 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83737
+#EXTINF:-1,[24H] Superman Animado 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152553
+#EXTINF:-1,[24H] Tartarugas Ninjas
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83738
+#EXTINF:-1,[24H] Team-Galaxy
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/266
+#EXTINF:-1,[24H] Thundercats
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83739
+#EXTINF:-1,[24H] Timão e Pumba 01
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/274
+#EXTINF:-1,[24H] Timão e Pumba 02
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83740
+#EXTINF:-1,[24H] Tom & Jerry
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83742
+#EXTINF:-1,[24H] Três Espiãs Demais
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83743
+#EXTINF:-1,[24H] Turma da Mônica
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/148201
+#EXTINF:-1,[24H] Turma do Pateta
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62989
+#EXTINF:-1,[24H] Ursinhos Carinhosos 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83746
+#EXTINF:-1,[24H] Ursinhos Carinhosos 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/148274
+#EXTINF:-1,[24H] Vai, Cachorro. Vai!
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/150478
+#EXTINF:-1,[24H] Wally Gator
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/276
+#EXTINF:-1,[24H] Wolverine e os X-Men
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152887
+#EXTINF:-1,[24H] X-Men 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83747
+#EXTINF:-1,[24H] X-Men 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/152673
+#EXTINF:-1,[24H] Xuxa só para Baixinhos 1
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/148202
+#EXTINF:-1,[24H] Xuxa só para Baixinhos 2
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/62953
+#EXTINF:-1,[24H] YU-YU-Hakusho
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/83750
+#EXTINF:-1,[24H] Zatch Bell
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/279
+#EXTINF:-1,[24H] Zé Buscapé
+http://s.apkwuv.xyz:80/6jcBys/VND1HB/278
