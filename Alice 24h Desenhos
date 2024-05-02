@@ -470,10 +470,119 @@ http://s.apkwuv.xyz:80/6jcBys/VND1HB/62992
 #EXTINF:-1,2253 Nickelodeon Bob Esponja Calça Quadrada (BR)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,2257 Nick Clássico (BR)
+#EXTINF:-1, Nickelodeon 
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+#EXTINF:-1, Nick Clássico (BR)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1,2258 Nick Junior Club (BR)
+#EXTINF:-1, Nick Junior Club (BR)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1, Nick Jr.
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architectur
+#EXTINF:-1, Cartoon Network
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+#EXTINF:-1, Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:-1, Disney Channel
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/351
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoonito HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/110684
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/356
+EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOB.png" group-title="Canais | Infantil",Gloob HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/380
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png" group-title="Canais | Infantil",Gloobinho HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/383
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr. HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | Infantil",Nick Jr. HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" group-title="Canais | Infantil",Nickelodeon HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/372
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/351
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoonito HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/110684
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/356
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="http://mytv.tv.br/canais/babytv.png" group-title="✨ CANAIS • INFANTIL",BABY TV HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986775
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="✨ CANAIS • INFANTIL",CARTOON NETWORK FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986776
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="✨ CANAIS • INFANTIL",CARTOON NETWORK HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986777
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="✨ CANAIS • INFANTIL",CARTOON NETWORK SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986778
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="https://i.imgur.com/kTObhk1.png" group-title="✨ CANAIS • INFANTIL",Cartoonito FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986779
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://i.imgur.com/kTObhk1.png" group-title="✨ CANAIS • INFANTIL",Cartoonito HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986780
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="https://i.imgur.com/kTObhk1.png" group-title="✨ CANAIS • INFANTIL",Cartoonito SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986781
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="✨ CANAIS • INFANTIL",DISCOVERY KIDS FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986782
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="✨ CANAIS • INFANTIL",DISCOVERY KIDS HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986783
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="✨ CANAIS • INFANTIL",DISCOVERY KIDS SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986784
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png" group-title="✨ CANAIS • INFANTIL",DISNEY CHANNEL FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986785
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png" group-title="✨ CANAIS • INFANTIL",DISNEY CHANNEL HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986786
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png" group-title="✨ CANAIS • INFANTIL",DISNEY CHANNEL SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986787
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="✨ CANAIS • INFANTIL",GLOOB FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986788
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="✨ CANAIS • INFANTIL",GLOOB HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986789
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="✨ CANAIS • INFANTIL",GLOOB SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986790
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO FHD" tvg-logo="https://1.bp.blogspot.com/-7SdhnvUtEPE/Xs6cEfXF-3I/AAAAAAAAF9Y/rPBaexsYDfIepZeOjx_Z-PMhVaMm_NN-gCLcBGAsYHQ/s1600/GLOOBINHO.png" group-title="✨ CANAIS • INFANTIL",GLOOBINHO FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986791
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO HD" tvg-logo="https://1.bp.blogspot.com/-7SdhnvUtEPE/Xs6cEfXF-3I/AAAAAAAAF9Y/rPBaexsYDfIepZeOjx_Z-PMhVaMm_NN-gCLcBGAsYHQ/s1600/GLOOBINHO.png" group-title="✨ CANAIS • INFANTIL",GLOOBINHO HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986792
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO SD" tvg-logo="https://1.bp.blogspot.com/-7SdhnvUtEPE/Xs6cEfXF-3I/AAAAAAAAF9Y/rPBaexsYDfIepZeOjx_Z-PMhVaMm_NN-gCLcBGAsYHQ/s1600/GLOOBINHO.png" group-title="✨ CANAIS • INFANTIL",GLOOBINHO SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986793
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR FHD" tvg-logo="https://1.bp.blogspot.com/-thB8BgXTYgk/Xk70c2Wv28I/AAAAAAAACGE/wdseOpQ-3jkj2n1e2QMaIrQnB4a70yzFQCLcBGAsYHQ/s1600/nickjr.png" group-title="✨ CANAIS • INFANTIL",NICK JR FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986794
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD" tvg-logo="https://1.bp.blogspot.com/-thB8BgXTYgk/Xk70c2Wv28I/AAAAAAAACGE/wdseOpQ-3jkj2n1e2QMaIrQnB4a70yzFQCLcBGAsYHQ/s1600/nickjr.png" group-title="✨ CANAIS • INFANTIL",NICK JR HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986795
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR SD" tvg-logo="https://1.bp.blogspot.com/-thB8BgXTYgk/Xk70c2Wv28I/AAAAAAAACGE/wdseOpQ-3jkj2n1e2QMaIrQnB4a70yzFQCLcBGAsYHQ/s1600/nickjr.png" group-title="✨ CANAIS • INFANTIL",NICK JR SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986796
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="https://1.bp.blogspot.com/-NshftfFiUg0/Xk70chBGcxI/AAAAAAAACGA/EIQEzc-XyAkryBvxiUq8OHG2yI1Qv9RfwCLcBGAsYHQ/s1600/nick.png" group-title="✨ CANAIS • INFANTIL",NICKELODEON FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986797
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://1.bp.blogspot.com/-NshftfFiUg0/Xk70chBGcxI/AAAAAAAACGA/EIQEzc-XyAkryBvxiUq8OHG2yI1Qv9RfwCLcBGAsYHQ/s1600/nick.png" group-title="✨ CANAIS • INFANTIL",NICKELODEON HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986798
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://1.bp.blogspot.com/-NshftfFiUg0/Xk70chBGcxI/AAAAAAAACGA/EIQEzc-XyAkryBvxiUq8OHG2yI1Qv9RfwCLcBGAsYHQ/s1600/nick.png" group-title="✨ CANAIS • INFANTIL",NICKELODEON SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986799
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png" group-title="✨ CANAIS • INFANTIL",TOONCAST FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986800
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png" group-title="✨ CANAIS • INFANTIL",TOONCAST HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986801
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png" group-title="✨ CANAIS • INFANTIL",TOONCAST SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986802
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://2.bp.blogspot.com/-PoyMSzIr24E/XupD-zDa27I/AAAAAAAAGWo/1bPCe_4hEW0okuEXraZhm-OulljSc-xjQCK4BGAYYCw/s400/tv%2Bra%2Btim%2Bbum.png" group-title="✨ CANAIS • INFANTIL",TV RA TIM BUM FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986803
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://2.bp.blogspot.com/-PoyMSzIr24E/XupD-zDa27I/AAAAAAAAGWo/1bPCe_4hEW0okuEXraZhm-OulljSc-xjQCK4BGAYYCw/s400/tv%2Bra%2Btim%2Bbum.png" group-title="✨ CANAIS • INFANTIL",TV RA TIM BUM HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986804
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://2.bp.blogspot.com/-PoyMSzIr24E/XupD-zDa27I/AAAAAAAAGWo/1bPCe_4hEW0okuEXraZhm-OulljSc-xjQCK4BGAYYCw/s400/tv%2Bra%2Btim%2Bbum.png" group-title="✨ CANAIS • INFANTIL",TV RA TIM BUM SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986805
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://3.bp.blogspot.com/-QGBXbuvWJkU/XmQHi8ltKRI/AAAAAAAACRQ/Zrr0EbyMyvILzvQ4_V59HIDsZdHiMtkpACK4BGAYYCw/s400/WOOHOO.png" group-title="✨ CANAIS • INFANTIL",WOOHOO FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986806
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://3.bp.blogspot.com/-QGBXbuvWJkU/XmQHi8ltKRI/AAAAAAAACRQ/Zrr0EbyMyvILzvQ4_V59HIDsZdHiMtkpACK4BGAYYCw/s400/WOOHOO.png" group-title="✨ CANAIS • INFANTIL",WOOHOO HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986807
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://3.bp.blogspot.com/-QGBXbuvWJkU/XmQHi8ltKRI/AAAAAAAACRQ/Zrr0EbyMyvILzvQ4_V59HIDsZdHiMtkpACK4BGAYYCw/s400/WOOHOO.png" group-title="✨ CANAIS • INFANTIL",WOOHOO SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986808
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMO FHD" tvg-logo="https://3.bp.blogspot.com/-j5uz1zttHEo/XmUi8BK3sYI/AAAAAAAACXE/-90cQil00OUb0mhWc1mp3PjBzcunSnsdwCK4BGAYYCw/s400/zoomoo.png" group-title="✨ CANAIS • INFANTIL",ZOOMO FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986809
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://3.bp.blogspot.com/-j5uz1zttHEo/XmUi8BK3sYI/AAAAAAAACXE/-90cQil00OUb0mhWc1mp3PjBzcunSnsdwCK4BGAYYCw/s400/zoomoo.png" group-title="✨ CANAIS • INFANTIL",ZOOMOO HD
+http://c.strzzi.site:80/evz11t/41sp3k/2986810
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://3.bp.blogspot.com/-j5uz1zttHEo/XmUi8BK3sYI/AAAAAAAACXE/-90cQil00OUb0mhWc1mp3PjBzcunSnsdwCK4BGAYYCw/s400/zoomoo.png" group-title="✨ CANAIS • INFANTIL",ZOOMOO SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986811
+
 
 #EXTINF:-1,[24H] Pantera Cor de Rosa 1
 http://s.apkwuv.xyz:80/6jcBys/VND1HB/147949
@@ -633,3 +742,62 @@ http://s.apkwuv.xyz:80/6jcBys/VND1HB/83750
 http://s.apkwuv.xyz:80/6jcBys/VND1HB/279
 #EXTINF:-1,[24H] Zé Buscapé
 http://s.apkwuv.xyz:80/6jcBys/VND1HB/278
+
+
+
+#EXTINF:-1 format="auto" group-title="Infantil" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",kuriakos kidsᴴᴰ 🇵🇹
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Famíliaᴴᴰ 🇵🇹 🟤
+https://bit.ly/3MFhgrA?profile=inspirationFreetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Famíliaᴴᴰ 🇵🇹 🟤
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clanᴴᴰ 🇪🇸 🟤
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/12b63cde9f5a61c7e0ec1e00aa89d058d1a50e44/Logos/Ducktv.svg",Duck tvᴴᴰ 🇪🇸 🟤
+https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/12b63cde9f5a61c7e0ec1e00aa89d058d1a50e44/Logos/Ducktv.svg",Duck tv
+http://iptv.prosto.tv:7000/ch209/video.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Babyfirst.png",Baby Firtsᴴᴰ 🇧🇷 🟤
+https://bit.ly/BabyFirts?profile=inspirationFreetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ReinoInfantil.png",O Reino Infantilᴴᴰ 🇧🇷 🟤
+https://bit.ly/3ssv2Uy?profile=inspirationFreetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorksᴴᴰ 🇧🇷
+https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorks sᴅ 🇲🇽
+http://45.189.148.24:8000/play/a00m/index.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorks sᴅ 🇲🇽
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1920px-Loading_TV.svg.png",loadingtvᴴᴰ 🇧🇷 
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1499921038.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DisneyChannel.png",Disnay Channelᴴᴰ 🇧🇷
+http://51.83.238.223:16274/DisnayChannel
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CartoonNetwork.png",Cartoon Network 🇧🇷
+http://199.127.60.83:14687/CartoonNetwork
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network 🇧🇷 ²
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network ³ 🇧🇷
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png",As Aventuras de Jackie Chanᴴᴰ 🇧🇷 
+https://bit.ly/3SBvUo9?profile=inspirationFreetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/nick.jr.png",Nick Jr. Club 🇧🇷 🟤
+https://bit.ly/3rUCg15?profile=inspirationFreetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",Turma da Mônicaᴴᴰ 🇧🇷 🟤
+https://bit.ly/3cXQNoL?profile=inspirationFreetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg",Cartoonito 🇧🇷
+http://199.127.60.83:14682/cartoonito.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg",Cartoonito 🇪🇸
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://geekdot.live/wp-content/uploads/2023/08/cropped-esi-180x180.png",Geekdotᴴᴰ 🇧🇷 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/UniversoKids.png",Universo Kids 🇧🇷
+https://srv3.zcast.com.br/universo3/universo3/chunklist_w1940630211.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",Anime 🇧🇷 🟤
+https://bit.ly/3qY2y4m?profile=inspirationFreetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids 🇧🇷
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids 🇪🇸
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino 🇪🇸
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
